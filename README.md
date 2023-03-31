@@ -1,1 +1,1 @@
-# AiPal
+# Example Hexagonal Architecture
